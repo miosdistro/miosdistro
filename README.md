@@ -1,16 +1,34 @@
-## Hi there 👋
+# ¡Hola! Bienvenidos al espacio de miOS GNU/Linux 👋
 
-<!--
-**miosdistro/miosdistro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- Aquí puedes poner un banner o el logo de tu sistema -->
+  <img src="https://miosdistro.github.io/logo.png" alt="miOS Logo" width="160" style="border-radius: 28px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px);"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">Un sistema operativo libre, ligero y enfocado en la innovación visual 🚀</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎨 Sobre el Proyecto
+
+**miOS** es una distribución independiente basada en los repositorios estables de **Debian**. Nuestro objetivo es ofrecer un sistema rápido, respetuoso con la privacidad del usuario y con una interfaz moderna que rompa con lo tradicional.
+
+*   **Base sólida:** Construido sobre Debian para garantizar la máxima estabilidad.
+*   **Filosofía FOSS:** 100% libre de telemetría invasiva y software privativo forzado.
+*   **Interfaz Expresiva:** Diseñado con un enfoque estético único (transparencias, desenfoques y esquinas redondeadas de 28px) que prioriza la fluidez visual.
+
+---
+
+## 📈 Estado del Proyecto
+
+- [x] Configuración de la base y repositorios principales.
+- [x] Diseño de la identidad visual y maquetación de la interfaz.
+- [/] Desarrollo activo de los componentes de JasperDE (En proceso...).
+- [ ] Primera compilación beta pública de la ISO para la comunidad.
+
+---
+
+## 🌐 Conecta con el Proyecto
+
+*   🌍 Visita el sitio web oficial: [miosdistro.github.io](https://miosdistro.github.io)
+*   💻 Si quieres colaborar en el código, ¡revisa nuestros repositorios fijados abajo!
