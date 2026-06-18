@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Aquí puedes poner un banner o el logo de tu sistema -->
-  <img src="https://miosdistro.github.io/logo.png" alt="miOS Logo" width="160" style="border-radius: 28px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px);"/>
+  <img src="https://miosdistro.github.io/logo.png" alt="miOS Logo.jpg" width="160" style="border-radius: 28px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px);"/>
 </p>
 
 <h3 align="center">Un sistema operativo libre, ligero y enfocado en la innovación visual 🚀</h3>
@@ -15,7 +15,6 @@
 
 *   **Base sólida:** Construido sobre Debian para garantizar la máxima estabilidad.
 *   **Filosofía FOSS:** 100% libre de telemetría invasiva y software privativo forzado.
-*   **Interfaz Expresiva:** Diseñado con un enfoque estético único (transparencias, desenfoques y esquinas redondeadas de 28px) que prioriza la fluidez visual.
 
 ---
 
