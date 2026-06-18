@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Aquí puedes poner un banner o el logo de tu sistema -->
-  <img src="https://miosdistro.github.io/logo.png" alt="miOS Logo.jpg" width="160" style="border-radius: 28px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px);"/>
+  <img src="miOS Logo.jpg" alt="miOS Logo" width="160" style="border-radius: 28px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px);"/>
 </p>
 
 <h3 align="center">Un sistema operativo libre, ligero y enfocado en la innovación visual 🚀</h3>
@@ -22,8 +22,7 @@
 
 - [x] Configuración de la base y repositorios principales.
 - [x] Diseño de la identidad visual y maquetación de la interfaz.
-- [/] Desarrollo activo de los componentes de JasperDE (En proceso...).
-- [ ] Primera compilación beta pública de la ISO para la comunidad.
+- [X] Primera version en un ISO para la comunidad.
 
 ---
 
