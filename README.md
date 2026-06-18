@@ -5,13 +5,13 @@
   <img src="miOS Logo.png" alt="miOS Logo" width="160" style="border-radius: 28px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px);"/>
 </p>
 
-<h3 align="center">Un sistema operativo libre, ligero y enfocado en la innovación visual 🚀</h3>
+<h3 align="center">Un sistema operativo libre, ligero y enfocado en la innovación. 🚀</h3>
 
 ---
 
 ## 🎨 Sobre el Proyecto
 
-**miOS** es una distribución independiente basada en los repositorios estables de **Debian**. Nuestro objetivo es ofrecer un sistema rápido, respetuoso con la privacidad del usuario y con una interfaz moderna que rompa con lo tradicional.
+**miOS** es una distribución independiente basada en los repositorios estables de **Debian**. El objetivo es ofrecer un sistema rápido, respetuoso con la privacidad del usuario y con una interfaz moderna que rompa con lo tradicional.
 
 *   **Base sólida:** Construido sobre Debian para garantizar la máxima estabilidad.
 *   **Filosofía FOSS:** 100% libre de telemetría invasiva y software privativo forzado.
@@ -29,4 +29,4 @@
 ## 🌐 Conecta con el Proyecto
 
 *   🌍 Visita el sitio web oficial: [miosdistro.github.io](https://miosdistro.github.io)
-*   💻 Si quieres colaborar en el código, ¡revisa nuestros repositorios fijados abajo!
+*   💻 Si quieres colaborar en el código, ¡revisa los repositorios fijados abajo!
