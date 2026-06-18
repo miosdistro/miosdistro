@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Aquí puedes poner un banner o el logo de tu sistema -->
-  <img src="miOS Logo.jpg" alt="miOS Logo" width="160" style="border-radius: 28px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px);"/>
+  <img src="miOS Logo.png" alt="miOS Logo" width="160" style="border-radius: 28px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px);"/>
 </p>
 
 <h3 align="center">Un sistema operativo libre, ligero y enfocado en la innovación visual 🚀</h3>
