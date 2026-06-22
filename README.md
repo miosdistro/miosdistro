@@ -30,3 +30,6 @@
 
 *   🌍 Visita el sitio web oficial: [miosdistro.github.io](https://miosdistro.github.io)
 *   💻 Si quieres colaborar en el código, ¡revisa los repositorios fijados abajo!
+*   Siguelo en Telegram : [t.me/mioscanaloficial](https://t.me/mioscanaloficial)
+*   Comenta y comunicate con miOS: [t.me/mioscanaloficialchat](https://mioscanaloficialchat)
+*   Sigue a miOS en Instagram: [www.instagram.com/mios_gnu_linux](https://www.instagram.com/mios_gnu_linux/)
